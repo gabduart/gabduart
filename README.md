@@ -42,8 +42,5 @@
   <a href="mailto:gabduart68@gmail.com" target="_balnk">
     <img alt="Gab-Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
-  <a href="www.linkedin.com/in/gabriel-henrique-duarte-817879265" target="_balnk">
-    <img alt="Gab-Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
 </div>
 
