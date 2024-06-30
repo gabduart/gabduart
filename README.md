@@ -10,10 +10,9 @@
 -->
 
 <div>
-  <a href="https://github.com/gabduart">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabduart&show_icons=true&theme=dark&include_all_commits=true&count_private=true">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabduart&langs_count=16&layout=compact&theme=dark">
-  </a>
+  <a href="https://github.com/gabduart"></a>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabduart&show_icons=true&theme=dark&include_all_commits=true&count_private=true">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabduart&langs_count=16&layout=compact&theme=dark">
 </div>
 
 <div style="display: inline_block"><br>
