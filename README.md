@@ -1,7 +1,7 @@
 ## Olá!! Eu sou o Gabriel Henrique
 
 - 🔭 Cursando Desenvolvimento de Sistemas
-- 🌱 Atualmente estou aprendendo React
+- 🌱 Atualmente estou aprendendo C
 - 😄 Pronomes: ele/dele
 
 <!--
