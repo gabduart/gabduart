@@ -4,10 +4,10 @@
 - 🌱 Atualmente estou aprendendo C
 - 😄 Pronomes: ele/dele
 
-<!--
+
   ![gabduart GitHub stats](https://github-readme-stats.vercel.app/api?username=gabduart&show_icons=true&theme=tokyonight)
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabduart&layout=compact)
--->
+
 
 <div>
   <a href="https://github.com/gabduart"></a>
