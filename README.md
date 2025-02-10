@@ -4,17 +4,12 @@
 - 🌱 Atualmente estou aprendendo C
 - 😄 Pronomes: ele/dele
 
-<!--
-  ![gabduart GitHub stats](https://github-readme-stats.vercel.app/api?username=gabduart&show_icons=true&theme=tokyonight)
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabduart&layout=compact)
--->
-
 <div>
   <a href="https://github.com/gabduart"></a>
-  <img height="180em" src="![gabduart GitHub stats](https://github-readme-stats.vercel.app/api?username=gabduart&show_icons=true&theme=dark&include_all_commits=true&count_private=true)">
   <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabduart&show_icons=true&theme=dark&include_all_commits=true&count_private=true"> -->
-  <img height="180em" src="![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabduart&layout=compact&theme=dark)">
   <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabduart&langs_count=16&layout=compact&theme=dark"> -->
+  ![gabduart GitHub stats](https://github-readme-stats.vercel.app/api?username=gabduart&show_icons=true&theme=tokyonight)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabduart&layout=compact)
 </div>
 
 <div style="display: inline_block"><br>
