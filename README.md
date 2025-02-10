@@ -2,7 +2,6 @@
 
 - 🔭 Técnico em Desenvolvimento de Sistemas
 - 🌱 Atualmente estou aprendendo C
-- 😄 Pronomes: ele/dele
 
 <!--
   ![gabduart GitHub stats](https://github-readme-stats.vercel.app/api?username=gabduart&show_icons=true&theme=dark)
